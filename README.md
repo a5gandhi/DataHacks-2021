@@ -4,7 +4,6 @@ Welcome to DataHacks 2021! Out of hundreds of applicants, you’ve been selected
 # READ BEFORE HACKING STARTS
 ### Useful tools and websites
 - [Anaconda](https://www.anaconda.com/distribution/?gclid=EAIaIQobChMI3Mj06rav5wIVwRd9Ch20mw4zEAAYASAAEgLRDvD_BwE#download-section): Python 3.7, Graphical Installer recommended but not required
-- [Devpost](https://datahacks.devpost.com/?preview_token=QQWbaYzAyjvDGT0g95624H8gHoHq518QC3HIU2zDEKM%3D): The website to submit your report
 - [Visual Studio Code](https://code.visualstudio.com/download): one text editor
 - [Github Desktop](https://desktop.github.com/): If you don’t know Github or don’t have a Github account, please look at this [post](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) first
 
