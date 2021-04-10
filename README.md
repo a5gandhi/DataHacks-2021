@@ -16,8 +16,7 @@ Welcome to DataHacks 2021! Out of hundreds of applicants, you’ve been selected
 2. You have 36 hours until **Sunday noon** to work on your dataset
 3. Follow the prompt/README file for each track
 4. Prepare for a report with all of your findings in a **reasonable length**
-5. Zip your **report (pdf) and code** and submit as a group to Devpost (link above, come up with an appropriate team name!).
-6. Judges will read through your reports and pick the **top 3 teams from each track** 
-7. Selected 12 teams will go onto stage 2 and **present** their findings (maximum five minutes per team)
-8. Judges will announce **one winner per track** based on further criteria
+5. Judges will read through your reports and pick the **top 3 teams from each track** 
+6. Selected 12 teams will go onto stage 2 and **present** their findings (maximum five minutes per team)
+7. Judges will announce **one winner per track** based on further criteria
 
