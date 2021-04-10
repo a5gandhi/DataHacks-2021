@@ -14,7 +14,7 @@ Welcome to DataHacks 2021! Out of hundreds of applicants, you’ve been selected
 
 ### Competition format
 1. Each team should pick one track to work on
-2. You have 24 hours until **Sunday noon** to work on your dataset
+2. You have 36 hours until **Sunday noon** to work on your dataset
 3. Follow the prompt/README file for each track
 4. Prepare for a report with all of your findings in a **reasonable length**
 5. Zip your **report (pdf) and code** and submit as a group to Devpost (link above, come up with an appropriate team name!).
